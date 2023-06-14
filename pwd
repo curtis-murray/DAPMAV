@@ -1,5 +1,0 @@
-reddit = praw.Reddit(
-    client_id="x2oFm4dOSHmMNo_aX6KP-w",
-    client_secret="xBkCHwTZ45aku76a0U9A8HOY4F98uA",
-    user_agent="curtis"
-)
